@@ -1,0 +1,17 @@
+.contenedor{
+    max-width: 50%;
+    margin: 0 auto;
+}
+.borde{
+    border-bottom: solid 3px;
+    color: brown;
+}
+
+h3{
+    color: cadetblue;
+}
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+
